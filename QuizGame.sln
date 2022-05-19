@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizGame", "QuizGame\QuizGame.csproj", "{EF896044-0BFF-43E9-9B2C-B36D72C27B3E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{611A929A-55E7-4600-BA25-4E28A46750CD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF896044-0BFF-43E9-9B2C-B36D72C27B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF896044-0BFF-43E9-9B2C-B36D72C27B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF896044-0BFF-43E9-9B2C-B36D72C27B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF896044-0BFF-43E9-9B2C-B36D72C27B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B46239DD-650A-4539-9536-C5FEA3B987EE}
+	EndGlobalSection
+EndGlobal
