@@ -1,13 +1,9 @@
-﻿using QuizGame.Data.Questions.Interfaces;
+﻿using Microsoft.Data.SqlClient;
+using QuizGame.Data.Questions.Interfaces;
 using QuizGame.Logic.DTO.Questions;
 using QuizGame.Logic.DTO.Questions.Interfaces;
 using QuizGame.Logic.Utils;
-using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace QuizGame.Data.Questions
 {

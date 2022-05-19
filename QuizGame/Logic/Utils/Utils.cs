@@ -16,7 +16,7 @@ namespace QuizGame.Logic.Utils
 
         public static string StringifyDifficulty(Difficulty d)
         {
-            string difficulty= "";
+            string difficulty = "";
             switch (d)
             {
                 case Difficulty.EASY:
@@ -27,6 +27,23 @@ namespace QuizGame.Logic.Utils
                     break;
                 case Difficulty.HARD:
                     difficulty = "Hard";
+                    break;
+            }
+            return difficulty;
+        }
+        public static Difficulty ParseDifficulty(string s)
+        {
+            Difficulty difficulty = Difficulty.NONE;
+            switch (s)
+            {
+                case "Easy":
+                    difficulty = Difficulty.EASY;
+                    break;
+                case "Medium":
+                    difficulty = Difficulty.MEDIUM;
+                    break;
+                case "Hard":
+                    difficulty = Difficulty.HARD;
                     break;
             }
             return difficulty;

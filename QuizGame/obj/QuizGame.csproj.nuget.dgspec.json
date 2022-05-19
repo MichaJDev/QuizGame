@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xflak\\source\\repos\\QuizGame\\QuizGame\\QuizGame.csproj": {}
+    "G:\\GitHub\\QuizGame\\QuizGame\\QuizGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xflak\\source\\repos\\QuizGame\\QuizGame\\QuizGame.csproj": {
+    "G:\\GitHub\\QuizGame\\QuizGame\\QuizGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xflak\\source\\repos\\QuizGame\\QuizGame\\QuizGame.csproj",
+        "projectUniqueName": "G:\\GitHub\\QuizGame\\QuizGame\\QuizGame.csproj",
         "projectName": "QuizGame",
-        "projectPath": "C:\\Users\\xflak\\source\\repos\\QuizGame\\QuizGame\\QuizGame.csproj",
+        "projectPath": "G:\\GitHub\\QuizGame\\QuizGame\\QuizGame.csproj",
         "packagesPath": "C:\\Users\\xflak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xflak\\source\\repos\\QuizGame\\QuizGame\\obj\\",
+        "outputPath": "G:\\GitHub\\QuizGame\\QuizGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,9 +43,9 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
-            "System.Data.SqlClient": {
+            "Microsoft.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.8.3, )"
+              "version": "[4.1.0, )"
             }
           },
           "imports": [

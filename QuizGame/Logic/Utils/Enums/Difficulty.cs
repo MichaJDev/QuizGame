@@ -10,6 +10,7 @@ namespace QuizGame.Logic.Utils.Enums
     {
         EASY,
         MEDIUM,
-        HARD
+        HARD,
+        NONE
     }
 }
