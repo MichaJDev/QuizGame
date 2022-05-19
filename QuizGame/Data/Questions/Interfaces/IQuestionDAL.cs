@@ -1,9 +1,4 @@
 ﻿using QuizGame.Logic.DTO.Questions.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace QuizGame.Data.Questions.Interfaces
 {

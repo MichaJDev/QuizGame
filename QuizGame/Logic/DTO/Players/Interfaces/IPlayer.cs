@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace QuizGame.Logic.DTO.Players.Interfaces
+﻿namespace QuizGame.Logic.DTO.Players.Interfaces
 {
     public interface IPlayer
     {
